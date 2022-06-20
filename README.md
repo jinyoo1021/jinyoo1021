@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+### Profile
+##### Jin Yoo (유 진)
+
 
 <!--
 **jinyoo1021/jinyoo1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
