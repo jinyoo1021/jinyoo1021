@@ -1,21 +1,9 @@
-## Hi there 👋
+# Profile
+## Jin Yoo (유 진, @jinyoo1021)
 
-### Profile
-##### Jin Yoo (유 진, @jinyoo1021)
-"TODAY I spent in vain was a desperate TOMORROW for someone who died YESTERDAY."
+> ###### *"TODAY I spent in vain was a desperate TOMORROW for someone who died YESTERDAY."*
 
-
-<!--
-**jinyoo1021/jinyoo1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- Instagram : @jinyoo1021
+- GitHub : @jinyoo1021
+- Blog : jinyoo1021.github.io
