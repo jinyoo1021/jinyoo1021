@@ -11,3 +11,4 @@
 ### I'm studying
 - Java
 - JavaScript
+- Python
