@@ -9,6 +9,6 @@
 - Blog : jinyoo1021.github.io
 
 ### I'm studying
+- Python
 - Java
 - JavaScript
-- Python
