@@ -11,4 +11,3 @@
 ### I'm studying
 - Python
 - Java
-- JavaScript
