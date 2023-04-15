@@ -5,7 +5,7 @@
 
 ### About me
 - Homepage : https://jinyoo1021.github.io/
-- Blog : https://jinyoo1021.github.io/blo
+- Blog : https://jinyoo1021.github.io/blog
 - GitHub : @jinyoo1021
 - Instagram : @jinyoo1021
 
