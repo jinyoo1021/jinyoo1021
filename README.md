@@ -4,10 +4,14 @@
 > ###### *"TODAY I spent in vain was a desperate TOMORROW for someone who died YESTERDAY."*
 
 ### About me
-- Instagram : @jinyoo1021
+- Homepage : https://jinyoo1021.github.io/
+- Blog : https://jinyoo1021.github.io/blo
 - GitHub : @jinyoo1021
-- Blog : jinyoo1021.github.io
+- Instagram : @jinyoo1021
 
 ### I'm studying
 - Python
 - Java
+
+### Working on
+- majoring in Computing Science [Specialization](https://www.ualberta.ca/computing-science/undergraduate-studies/programs-and-admissions/specialization.html) at the University of Alberta
