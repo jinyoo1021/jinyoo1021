@@ -1,7 +1,7 @@
 # Profile
 ## Jin Yoo (유 진, @jinyoo1021)
 
-> ###### *"TODAY I spent in vain was a desperate TOMORROW for someone who died YESTERDAY."*
+> ###### *"TODAY that you have lived in vain is the TOMORROW that a person who died YESTERDAY truly wanted to live."*
 
 ### About me
 - Homepage : https://jinyoo1021.github.io/
