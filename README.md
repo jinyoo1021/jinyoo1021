@@ -14,4 +14,4 @@
 - Java
 
 ### Working on
-- majoring in Computing Science [Specialization](https://www.ualberta.ca/computing-science/undergraduate-studies/programs-and-admissions/specialization.html) at the University of Alberta
+- Majoring in Computing Science [Specialization](https://www.ualberta.ca/computing-science/undergraduate-studies/programs-and-admissions/specialization.html) at the University of Alberta
