@@ -1,7 +1,7 @@
 # Profile
 ## Jin Yoo (유 진, @jinyoo1021)
 
-> ###### *"TODAY that you have lived in vain is the TOMORROW that a person who died YESTERDAY truly wanted to live."*
+> ###### *"TODAY that you have lived in vain is the TOMORROW that a person who died YESTERDAY truly wanted to live."* (Sophocles)
 
 ### About me
 - Homepage : https://jinyoo1021.github.io/
