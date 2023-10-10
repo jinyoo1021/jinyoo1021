@@ -11,6 +11,7 @@
 
 ### I'm studying
 - Python
+- C
 - Java
 
 ### Working on
