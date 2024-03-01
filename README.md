@@ -7,7 +7,7 @@
 ### About me
 - Homepage : https://jinyoo1021.github.io/
 - Blog : https://jinyoo1021.github.io/blog
-- Instagram : @jinyoo1021
+- Instagram : @jinyoo.1021
 
 ### Interesting...
 - Cloud Computing
