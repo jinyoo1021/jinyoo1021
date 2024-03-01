@@ -14,8 +14,8 @@
 - Solution Architecture
 - Agile Software Development
 - Test-Driven Development
-- DevOps
 - Software Compiler
+- DevOps
 
 ### Studying at
 - Majoring in Computing Science [Specialization](https://www.ualberta.ca/computing-science/undergraduate-studies/programs-and-admissions/specialization.html) at the University of Alberta
