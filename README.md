@@ -4,12 +4,12 @@
 
 > ###### *"TODAY that you have lived in vain is the TOMORROW that a person who died YESTERDAY truly wanted to live."* (Sophocles)
 
-### About me
+### 🤔 About me
 - Homepage : https://jinyoo1021.github.io/
 - Blog : https://jinyoo1021.github.io/blog
 - Instagram : @jinyoo.1021
 
-### Interesting...
+### 🪴 Interesting...
 - Cloud Computing
 - Solution Architecture
 - Agile Software Development
@@ -17,5 +17,5 @@
 - Software Compiler
 - DevOps
 
-### Studying at
+### 📖 Studying at
 - Majoring in Computing Science [Specialization](https://www.ualberta.ca/computing-science/undergraduate-studies/programs-and-admissions/specialization.html) at the University of Alberta
