@@ -1,9 +1,8 @@
 **Hello, there 👋**
 
 ## Jin Yoo (유 진, @jinyoo1021)
-
-> ###### *"TODAY that you have lived in vain is the TOMORROW that a person who died YESTERDAY truly wanted to live."* (Sophocles)
-> ###### *"Did I get BETTER today?"* (Kobe Bryant)
+> ###### _"TODAY that you have lived in vain is the TOMORROW that a person who died YESTERDAY truly wanted to live."_ (Sophocles) 
+> ###### _"Did I get BETTER today?"_ (Kobe Bryant)
 
 ### 🤔 About me
 - Homepage : https://jinyoo1021.github.io/
