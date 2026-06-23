@@ -1,21 +1,26 @@
-**Hello, there 👋**
+Hello, there 👋
 
 ## Jin Yoo (유 진, @jinyoo1021)
-> ###### _"TODAY that you have lived in vain is the TOMORROW that a person who died YESTERDAY truly wanted to live."_ (Sophocles) 
-> ###### _"Did I get BETTER today?"_ (Kobe Bryant)
 
-### 🤔 About me
+> ###### *"Did I get BETTER today?"* (Kobe Bryant)
+
+### About me
 - Homepage : https://jinyoo1021.github.io/
 - Blog : https://jinyoo1021.github.io/blog
-- Instagram : @jinyoo.1021
+- LinkedIn : https://linkedin.com/in/jin-yoo-161527265
 
-### 🪴 Interesting...
+### Interested in...
+- Backend Development
 - Cloud Computing
+- Infrastructure Engineering
 - Solution Architecture
-- Agile Software Development
-- Test-Driven Development
-- Software Compiler
-- DevOps
 
-### 📖 Studying at...
-- Majoring in Computing Science [Specialization](https://www.ualberta.ca/computing-science/undergraduate-studies/programs-and-admissions/specialization.html) at the University of Alberta
+### Projects
+- [Pillly](https://github.com/jinyoo1021/pillly)  
+  Full-stack medication reminder app (FastAPI + Flutter) with webhook-scheduled push notifications.
+
+- [Ollama_RAG](https://github.com/jinyoo1021/ollama_RAG)  
+  Local PDF RAG chatbot using Ollama, Chroma, hybrid retrieval, and Chainlit.
+
+### Studying at
+- B.Sc. in Computing Science - Artificial Intelligence @ University of Alberta
