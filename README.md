@@ -7,7 +7,7 @@ Hello, there 👋
 ### About me
 - Homepage : https://jinyoo1021.github.io/
 - Blog : https://jinyoo1021.github.io/blog
-- LinkedIn : https://linkedin.com/in/jin-yoo-161527265
+- LinkedIn : https://www.linkedin.com/in/jinyoo1021/
 
 ### Interested in...
 - Backend Development
